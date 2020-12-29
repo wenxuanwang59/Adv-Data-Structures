@@ -2,6 +2,8 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+//This is a test for github commit
+
 public class hashtagcounter {
     public static void main(String[] args) throws Exception {
         if (args.length == 0)
